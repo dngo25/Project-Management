@@ -15,10 +15,15 @@ The H.E.R.O project is designed for students and researchers seeking a quicker, 
 ### Big Picture & Details: 
 [Comment_2]: <> H.E.R.O, otherwise known as the “Higher Educational Research Observatory” (H.E.R.O) is an interface that allows for a simple search of privacy policy changes through an LLMs Chatbot and internet-archived data regarding privacy policies across 250+ U.S institutions. The H.E.R.O project solves the issue with neglected privacy policy changes, which causes users to be aware of how their information is shared and collected. This desktop application serves the general public, students, and researchers who would like to search Internet archives through a more usable interface. I care about this project because privacy, especially in the emerging digital age, causes people to unknowingly distribute their information for corporations to take advantage of. The unethical data collection blinds our generation through long privacy policies and dark patterns. The primary community focus is students and researchers, in order to help students become more aware of how their information is being collected and help researchers discover patterns in online policy changes. In order to develop this project, tools such as Figma and Figma Make AI will be used to conceptualize the user interface. This project also requires research on LLMs & AI tools with constant communication with the project lead & backend team. 
 
+| ![](H.E.R.O%20OpenCanvas.png) | 
+| :--: |
+| <b>Figure 1.</b> H.E.R.O Open Canvas. |   
+
+
 
 | ![](H.E.R.O%20Workflow.png) | 
 | :--: |
-| <b>Figure 1.</b> H.E.R.O Workflow. |   
+| <b>Figure 2.</b> H.E.R.O Workflow. |   
 
 [Comment_4]: <> (Insert Figure with caption here)
 
