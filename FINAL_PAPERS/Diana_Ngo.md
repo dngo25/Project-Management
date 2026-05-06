@@ -1,5 +1,4 @@
-## TITLE
-H.E.R.O (Higher Educational Research Observatory)
+## H.E.R.O (Higher Educational Research Observatory)
 Diana, Spring 2026 IS 340-Project Management-Section A, https://docs.google.com/document/d/1lNqbRpaxfmAU33b31fgVAgFTzc4pnqdcLUYqVDFbSPk/edit?usp=sharing
 
 
