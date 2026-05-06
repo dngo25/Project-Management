@@ -3,8 +3,7 @@ Diana, Spring 2026 IS 340-Project Management-Section A, https://docs.google.com/
 
 
 ### Abstract:
-
-[Comment_1]: <> The H.E.R.O (Higher Educational Research Observatory) project responds to the concern of data collection methods embedded within privacy policies amongst higher education institutions. With the internet being a central part of people’s daily activity, long-winded privacy policies become difficult to interpret. As a result, online users have limited knowledge of how their data is being collected and used.
+The H.E.R.O (Higher Educational Research Observatory) project responds to the concern of data collection methods embedded within privacy policies amongst higher education institutions. With the internet being a central part of people’s daily activity, long-winded privacy policies become difficult to interpret. As a result, online users have limited knowledge of how their data is being collected and used.
 H.E.R.O aims to act as the bridge that connects users with complex privacy policies, providing a usable filtration system across 250+ U.S. institutions using data scraped from archived data. H.E.R.O provides an LLM-powered chatbot that encourages users to ask about detailed privacy policy changes, which otherwise take hours to detect.
 The H.E.R.O project is designed for students and researchers seeking a quicker, more efficient way to understand privacy policies. Throughout the 16-week project timeline, UX/UI and backend teams work collaboratively, fostering project management principles of triaging strategies, documentation, public meetings, version control, and working openly.
 
